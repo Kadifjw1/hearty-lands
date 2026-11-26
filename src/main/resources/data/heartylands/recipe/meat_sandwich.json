@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "B",
+    "M",
+    "B"
+  ],
+  "key": {
+    "B": { "item": "minecraft:bread" },
+    "M": { "tag": "c:foods/cooked_meat" }
+  },
+  "result": { "id": "heartylands:meat_sandwich", "count": 2 }
+}

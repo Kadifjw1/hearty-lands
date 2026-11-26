@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sweet_berries" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:wheat" }
+  ],
+  "result": { "id": "heartylands:berry_pie", "count": 1 }
+}
